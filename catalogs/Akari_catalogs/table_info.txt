@@ -1,0 +1,96 @@
+IRC Point Source Catalogue Release Note Ver.1 p. 13
+http://www.ir.isas.jaxa.jp/AKARI/Archive/Catalogues/PSC/RN/AKARI-IRC_PSC_V1_RN.pdf
+
+PSC
+
+Name 		Type	Format	Column		Description
+OBJID 		int32	I10	1 – 10		AKARI source ID number.
+OBJNAME		string	15A	11 – 25		AKARI source name. The format is HHMMSSS+/-DDMMSS		
+RA		double	F10.5	26 – 35 	Right Ascension (J2000)[deg]
+DEC		double	F10.5	36 – 45		Declination (J2000)[deg]
+POSERRMJ	float	F8.2	46 – 53		Major axis of position error ellipse [arcsec]
+POSERRMI	float	F8.2	54 – 61		Minor axis of position error ellipse [arcsec]
+POSERRPA	float	F8.2	62 – 69		Position angle of Major axis [deg]
+FLUX09		float	E11.3	70 – 80		Flux density in S9W [Jy]
+FLUX18		float	E11.3	81 – 91		Flux density in L18W [Jy]
+FERR09		float	E10.2	92 – 101	Flux error in S9W [Jy]
+FERR18		float	E10.2	102 – 111	Flux error in L18W [Jy]
+FQUAL09		int16	I2	112 – 113	Flux quality flag for S9W
+FQUAL18		int16	I2	114 – 115	Flux quality flag for L18W
+FLAGS09		int16	Z5	116 – 120	Bit flags data quality for S9W. 1: not month confirmed, 2: (not used
+in this version), 4: (not used in this version), 8: use edge
+FLAGS18		int16	Z5	121 – 125	Bit flags data quality for L18W. 1: not month confirmed, 2: (not used
+in this version), 4: (not used in this version), 8: use edge
+NSCANC09	int16	I5	126 – 130	Number of scans in which the source is detected for S9W
+NSCANC18	int16	I5	131 – 135	Number of scans in which the source is detected for L18W
+NSCANP09	int16	I5	136 – 140	Total number of scans that possibly observed the source for S9W
+NSCANP18	int16	I5	141 – 145	Total number of scans that possibly observed the source for L18W
+MCONF09		int16	I3	146 – 148	1 is month confirmed and 0 is not. Inverted value of 1st bit of FLAGS09
+MCONF18		int16	I3	149 – 151	1 is month confirmed and 0 is not. Inverted value of 1st bit of FLAGS18
+NDENS09		int16	I4	152 – 155	Number of sources in 45 arcsec radius for S9W
+NDENS18		int16	I4	156 – 159	Number of sources in 45 arcsec radius for L18W
+EXTENDED09	int16	I3	160 – 162	Extended source flag
+EXTENDED18	int16	I3	163 – 165	Extended source flag
+MEAN_AB09	float	F8.2	166 – 173	The average of major and minor axes of source extent for S9W [arcsec]
+MEAN_AB18	float	F8.2	174 – 181	The average of major and minor axes of source extent for L18W [arcsec]
+NDATA_POS	int16	I5	182 – 186	Number of events which are used for positional calculation
+NDATA09		int16	I5	187 – 191	Total number of events that contribute to the measurements for FLUX09		
+NDATA18		int16	I5	192 – 196	Total number of events that contribute to the measurements for FLUX18
+
+######################################################
+FIS Bright Source Catalogue Release Note Ver.1 (30 Mar 2010)
+http://www.ir.isas.jaxa.jp/AKARI/Archive/Catalogues/PSC/RN/AKARI-FIS_BSC_V1_RN.pdf
+
+
+FIS
+
+Keyword 	Type	Format	Column		Short description
+OBJID		Long	I10	1–10		Internal Object ID
+OBJNAME		String	A15	11–25		Source identifier
+RA		Double	F10.5	26–35		Right Ascension (J2000) [deg]
+DEC		Double	F10.5	36–45		Declination (J2000) [deg]
+POSERRMJ	Float	F6.2	46–51		Position error major axis [arcsec]
+POSERRMI	Float	F6.2	52–57		Position error minor axis [arcsec]
+POSERRPA	Float	F6.1	58–63		Position error Position Angle [deg]
+FLUX65		Float	E11.3	64–74		Flux density in N60 [Jy]
+FLUX90		Float	E11.3	75–85		Flux density in WIDE-S [Jy]
+FLUX140		Float	E11.3	86–96		Flux density in WIDE-L [Jy]
+FLUX160		Float	E11.3	97–107		Flux density in N160 [Jy]
+FERR65		Float	E10.2	108–117		Flux uncertainty in N60 [Jy]
+FERR90		Float	E10.2	118–127		Flux uncertainty in WIDE-S [Jy]
+FERR140		Float	E10.2	128–137		Flux uncertainty in WIDE-L [Jy]
+FERR160		Float	E10.2	138–147		Flux uncertainty in N160 [Jy]
+FQUAL65		Integer	I2	148–149		Flux density quality flag for N60
+FQUAL90		Integer	I2	150–151		Flux density quality flag for WIDE-S
+FQUAL140	Integer	I2	152–153		Flux density quality flag for WIDE-L
+FQUAL160	Integer	I2	154–155		Flux density quality flag for N160
+FLAGS65		Integer	Z5	156–160		Bit flags of data quality for N60
+FLAGS90		Integer	Z5	161–165		Bit flags of data quality for WIDE-S
+FLAGS140	Integer	Z5	166–170		Bit flags of data quality for WIDE-L
+FLAGS160	Integer	Z5	171–175		Bit flags of data quality for N160
+NSCANC65	Integer	I5	176–180		nScanConfirm for N60
+NSCANC90	Integer	I5	181–185		nScanConfirm for WIDE-S
+NSCANC140	Integer	I5	186–190		nScanConfirm for WIDE-L
+NSCANC160	Integer	I5	191–195		nScanConfirm for N160
+NSCANP65	Integer	I5	196–200		nScanPossible for N60
+NSCANP90	Integer	I5	201–205		nScanPossible for WIDE-S
+NSCANP140	Integer	I5	206–210		nScanPossible for WIDE-L
+NSCANP160	Integer	I5	211–215		nScanPossible for N160
+MCONF65		Integer	I3	216–218		Months confirmation flag for N60
+MCONF90		Integer	I3	219–221		Months confirmation flag for WIDE-S
+MCONF140	Integer	I3	222–224		Months confirmation flag for WIDE-L
+MCONF160	Integer	I3	225–227		Months confirmation flag for N160
+NDENS		Integer	I4	228–231		Number of neighbouring sources
+
+
+
+
+
+
+
+
+
+
+
+
+
