@@ -1,0 +1,25 @@
+SCUBA-2			  PACs 70				    PACS 100				    PACS 160				SPIRE PSW (250)				SPIRE PMW (350)				SPIRE PLW (500)
+G082.74-01.99_100_L2.5_J_crop.fits    NA				    G082.74-01.99_100_L2.5_J_crop.fits    G082.74-01.99_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G107.36+05.45_100_L2.5_J_crop_2.fits    NA				    G107.36+05.45_100_L2.5_J_crop_2.fits    G107.36+05.45_160_L2.5_J_crop_2.fits    NA				    NA				    NA				
+G195.74-02.29_100_L2.5_J_crop.fits    NA				    G195.74-02.29_100_L2.5_J_crop.fits    G195.74-02.29_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G105.60+10.30_100_L2.5_J_crop.fits    NA				    G105.60+10.30_100_L2.5_J_crop.fits    NA				    NA				    NA				    NA				
+G139.48-03.27_100_L2.5_J_crop.fits    NA				    G139.48-03.27_100_L2.5_J_crop.fits    G139.48-03.27_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G093.79-04.60_100_L2.5_J_crop.fits    G093.77-04.74_070_L2.5_J_crop.fits    G093.79-04.60_100_L2.5_J_crop.fits    G093.78-04.74_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G089.77-06.83_100_L2.5_J_crop.fits    NA				    G089.77-06.83_100_L2.5_J_crop.fits    G089.77-06.83_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G039.61+01.85_100_L2.5_J_crop.fits    NA				    G039.61+01.85_100_L2.5_J_crop.fits    G039.60+01.87_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G171.49-14.91_100_L2.5_J_crop.fits    G171.50-14.91_070_L2.5_J_crop.fits    G171.49-14.91_100_L2.5_J_crop.fits    G171.50-14.91_160_L2.5_J_crop.fits    NA				    NA				    NA				
+NA				    G032.90+00.14_070_L2.5_J_crop.fits    NA				    G032.91+00.14_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G092.12+03.88_100_L2.5_J_crop.fits    NA				    G092.12+03.88_100_L2.5_J_crop.fits    G092.12+03.88_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G037.91+02.17_100_L2.5_J_crop.fits    NA				    G037.91+02.17_100_L2.5_J_crop.fits    G037.91+02.17_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G010.20+02.39_100_L2.5_J_crop.fits    NA				    G010.20+02.39_100_L2.5_J_crop.fits    G010.20+02.39_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G006.04+36.73_100_L2.5_J_crop.fits    NA				    G006.04+36.73_100_L2.5_J_crop.fits    G006.05+36.72_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G092.12+03.88_100_L2.5_J_crop_3.fits    NA				    G092.12+03.88_100_L2.5_J_crop_3.fits    G092.12+03.88_160_L2.5_J_crop_2.fits    NA				    NA				    NA				
+G070.22-01.50_100_L2.5_J_crop.fits    NA				    G070.22-01.50_100_L2.5_J_crop.fits    G070.22-01.50_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G087.07-04.08_100_L2.5_J_crop.fits    NA				    G087.07-04.08_100_L2.5_J_crop.fits    G087.08-04.08_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G158.87-20.77_100_L2.5_J_crop.fits    G158.80-20.65_070_L2.5_J_crop.fits    G158.87-20.77_100_L2.5_J_crop.fits    G158.80-20.65_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G109.79+02.70_100_L2.5_J_crop.fits    G110.04+02.39_070_L2.5_J_crop.fits    G109.79+02.70_100_L2.5_J_crop.fits    G110.04+02.38_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G092.12+03.88_100_L2.5_J_crop_2.fits    NA				    G092.12+03.88_100_L2.5_J_crop_2.fits    NA				    NA				    NA				    NA				
+G107.36+05.45_100_L2.5_J_crop.fits    NA				    G107.36+05.45_100_L2.5_J_crop.fits    G107.36+05.45_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G202.16+02.64_100_L2.5_J_crop.fits    NA				    G202.16+02.64_100_L2.5_J_crop.fits    G202.15+02.64_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G069.71-01.70_100_L2.5_J_crop.fits    NA				    G069.71-01.70_100_L2.5_J_crop.fits    G069.71-01.70_160_L2.5_J_crop.fits    NA				    NA				    NA				
+G173.16+02.36_100_L2.5_J_crop.fits    G173.16+02.36_070_L2.5_J_crop.fits    G173.16+02.36_100_L2.5_J_crop.fits    G173.16+02.36_160_L2.5_J_crop.fits    NA				    NA				    NA				

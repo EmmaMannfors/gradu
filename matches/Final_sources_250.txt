@@ -1,0 +1,20 @@
+SCUBA                     Herschel PSW (250um)
+G006.01+36.74_850.fits G006.04+36.73_PSW_L2.0_crop.fits
+G010.21+02.40_850.fits G010.20+02.39_PSW_L2.0_crop.fits
+G037.93+02.18_850.fits G037.92+02.18_PSW_L2.0_crop.fits
+G039.74+01.98_850.fits G039.60+01.86_PSW_L2.0_crop.fits
+G069.81-01.67_850.fits G070.07-01.60_PSW_L2.5_crop_2.fits
+G070.40-01.40_850.fits G070.07-01.60_PSW_L2.5_crop.fits
+G087.07-04.20_850.fits G087.08-04.08_PSW_L2.0_crop.fits
+G089.66-06.62_850.fits G089.76-06.83_PSW_L2.0_crop.fits
+G091.88+04.17_850.fits G092.12+03.88_PSW_L2.0_crop_3.fits	#Edge of H. map
+G092.04+03.92_850.fits G092.12+03.88_PSW_L2.0_crop_2.fits
+G092.28+03.79_850.fits G092.12+03.88_PSW_L2.0_crop.fits
+G093.51-04.31_850.fits G094.11-04.86_PSW_L2.5_crop.fits
+G159.23-20.09_850.fits G158.55-20.92_PSW_L2.5_crop.fits
+G195.73-02.28_850.fits G195.73-02.29_PSW_L2.0_crop.fits
+G082.40-01.84_850.fits G082.75-01.98_PSW_L2.0_crop.fits
+G202.31+02.53_850.fits G202.16+02.64_PSW_L2.0_crop.fits
+G014.15-00.55_850.fits G013.90-00.51_PSW_L2.0_crop.fits		#Edge of H. map
+G016.97+00.28_850.fits G017.69-00.15_PSW_L2.5_crop_2.fits
+G016.37-00.61_850.fits G017.69-00.15_PSW_L2.5_crop.fits
