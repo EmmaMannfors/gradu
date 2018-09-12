@@ -1,0 +1,26 @@
+Herschel 250 um				(ra,dec)
+G006.04+36.73_PSW_L2.0_crop.fits	(,)			238.536641667, -2.87842222222
+G010.20+02.39_PSW_L2.0_crop.fits
+G013.90-00.51_PSW_L2.0_crop.fits
+G017.69-00.15_PSW_L2.5_crop.fits
+G017.69-00.15_PSW_L2.5_crop_2.fits
+G017.69-00.15_PSW_L2.5_crop_3.fits
+G035.19-01.75_PSW_L2.0_crop.fits
+G037.92+02.18_PSW_L2.0_crop.fits
+G039.60+01.86_PSW_L2.0_crop.fits
+G070.07-01.60_PSW_L2.5_crop.fits
+G070.07-01.60_PSW_L2.5_crop_2.fits
+G082.75-01.98_PSW_L2.0_crop.fits
+G087.08-04.08_PSW_L2.0_crop.fits
+G089.76-06.83_PSW_L2.0_crop.fits
+G092.12+03.88_PSW_L2.0_crop.fits
+G092.12+03.88_PSW_L2.0_crop_2.fits
+G092.12+03.88_PSW_L2.0_crop_3.fits
+G094.11-04.86_PSW_L2.5_crop.fits
+G105.60+10.31_PSW_L2.0_crop.fits
+G109.79+02.70_PSW_L2.0_crop.fits
+G139.48-03.27_PSW_L2.0_crop.fits
+G158.55-20.92_PSW_L2.5_crop.fits
+G178.31+00.28_PSW_L2.5_crop.fits
+G195.73-02.29_PSW_L2.0_crop.fits
+G202.16+02.64_PSW_L2.0_crop.fits
