@@ -1,0 +1,12 @@
+Paikallinen taustavähennys. 
+Alue joka osuu pacs ja spire kanavien sisälle, mahdollisimman tyhjä
+Vähentää sen alueen pintakirkkauden (tai niiden pikselien keskiarvon) koko PACS-kartasta
+
+only PACS 160 um needs to be normalized to SPIRE data
+
+edit -> region 
+double click on center, cut and paste center and radius in file
+Take avg of this area (couple arcmin) and subtract it from each map
+Renormalize all SPIRE and PACS 160 um maps
+AplPy FITSFigure (converst from pizel to WCS)
+FITSFigure.pixel2world
